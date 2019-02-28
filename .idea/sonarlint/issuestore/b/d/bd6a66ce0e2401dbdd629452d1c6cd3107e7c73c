@@ -1,2 +1,9 @@
 
-squid:S1450	"^Remove the "fragmentManager" field and declare it as a local variable in the relevant methods.(î›äÿÿÿÿÿ8š–éğ’-
+Ssquid:S1444
+"5Make this "public static fragmentManager" field final(§˜¤™8´ì€‚“-
+"squid:ClassVariableVisibilityCheck
+"[Make fragmentManager a static final constant or non-public and provide accessors if needed.(§˜¤™8´ì€‚“-
+"squid:ClassVariableVisibilityCheck"VMake myDatabase a static final constant or non-public and provide accessors if needed.(œİºİüÿÿÿÿ8±Í‚“-
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(·Ë‚İüÿÿÿÿ8´ì€‚“-
+Ssquid:S1444"0Make this "public static myDatabase" field final(œİºİüÿÿÿÿ8°Ô‘‚“-
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(ğ¬œóıÿÿÿÿ8°Ô‘‚“-

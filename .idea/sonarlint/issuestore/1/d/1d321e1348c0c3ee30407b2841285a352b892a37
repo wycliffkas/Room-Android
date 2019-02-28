@@ -1,0 +1,4 @@
+
+qsquid:S1450"SRemove the "data" field and declare it as a local variable in the relevant methods.(šŞ£8ÁÊŸƒ“-
+:squid:S1643+"Use a StringBuilder instead.(æ‚»8ç¥¶ƒ“-
+Tsquid:S2696 "6Make the enclosing method "static" or remove this set.(İ¿Ç°8ÁÊŸƒ“-
